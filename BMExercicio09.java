@@ -10,6 +10,7 @@ public class BMExercicio09 {
             System.out.println("Valor de x: " + x); //Imprimindo o valor de x
             System.out.println("Contador: " + cont); //Imprimindo o valor do cont
             System.out.println();
+            x++;
             cont++;    
         }
     }
